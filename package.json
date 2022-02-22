@@ -1,0 +1,19 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "npm challenge",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andy-Reynolds/npm-practice.git"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andy-Reynolds/npm-practice/issues"
+  },
+  "homepage": "https://github.com/Andy-Reynolds/npm-practice#readme"
+}
